@@ -1,0 +1,5 @@
+logs/
+node_modules/
+output/
+dist/
+package-lock.json
